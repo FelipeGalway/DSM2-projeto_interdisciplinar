@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "nome": "Loft Urbano com Design Industrial",
+      "descricao": "Este loft de estilo industrial possui teto alto, grandes janelas e um espaço aberto perfeito para quem aprecia um design contemporâneo.",
+      "preco": 900000,
+      "endereco": "Rua Don Vito Corleone, nº 100, Bairro Poderoso Chefão, Franca/SP",
+      "tipo": "casa",
+      "imagem": "/img/pexels-binyamin-mellish-106399.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Residência Espaçosa com Piscina",
+      "descricao": "Uma casa espaçosa com 4 quartos, uma piscina refrescante e um elegante conceito aberto para momentos memoráveis em família.",
+      "preco": 1500000,
+      "endereco": "Rua dos Pokémons, nº 10, Bairro Pallet, Belo Horizonte/MG",
+      "tipo": "casa",
+      "imagem": "/img/pexels-max-rahubovskiy-7031607.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Chalé Rústico em Local Tranquilo",
+      "descricao": "Este chalé rústico oferece 2 quartos aconchegantes e está situado em um ambiente tranquilo cercado pela natureza.",
+      "preco": 500000,
+      "endereco": "Rua dos Alfeneiros, nº 4, Bairro Hogwarts, São Paulo/SP",
+      "tipo": "casa",
+      "imagem": "/img/pexels-photo-1029599.jpeg"
+    },
+    {
+      "id": 4,
+      "nome": "Casa Sustentável com Energia Solar",
+      "descricao": "Uma casa ecológica com 3 quartos, painéis solares, jardim de chuva e recursos eficientes em termos de energia.",
+      "preco": 1200000,
+      "endereco": "Rua Tolkien, nº 9731, Bairro Terra Média, Brasília/DF",
+      "tipo": "casa",
+      "imagem": "/img/pexels-photo-1396132.jpeg" 
+    },
+    {
+      "id": 5,
+      "nome": "Mansão de Luxo à Beira-Mar",
+      "descricao": "Uma mansão espetacular à beira-mar com 5 quartos, piscina infinita e acesso privativo à praia.",
+      "preco": 2500000,
+      "endereco": "Rua Pelé, nº 10, Bairro Vila Belmiro, Santos/SP",
+      "tipo": "casa",
+      "imagem": "/img/pexels-photo-2587054.jpeg"
+    },
+    {
+      "id": 6,
+      "nome": "Sala Comercial no Centro Empresarial",
+      "descricao": "Esta sala moderna e bem-iluminada está localizada em um prestigiado centro empresarial no coração da cidade, oferecendo acesso conveniente a importantes centros financeiros.",
+      "preco": 400000,
+      "endereco": "Rua Aragorn, nº 87, Bairro Gondor, Fortaleza/CE",
+      "tipo": "comercio",
+      "imagem": "/img/pexels-photo-3316924.webp"
+    },
+    {
+      "id": 7,
+      "nome": "Casa Aconchegante de 2 Quartos",
+      "descricao": "Esta casa encantadora oferece 2 quartos amplos, uma cozinha moderna e um jardim privativo perfeito para relaxar.",
+      "preco": 600000,
+      "endereco": "Rua Ned Stark, nº 2, Bairro Winterfell, Porto Alegre/RS",
+      "tipo": "casa",
+      "imagem": "/img/pexels-photo-3990589.jpeg"
+    },
+    {
+      "id": 8,
+      "nome": "Casa Charmosa com Jardim Exuberante",
+      "descricao": "Uma casa charmosa com 3 quartos, lindos detalhes arquitetônicos e um jardim exuberante nos fundos para os amantes da natureza.",
+      "preco": 800000,
+      "endereco": "Rua William Wallace, nº 7, Bairro Coração Valente, Rio de Janeiro/RJ",
+      "tipo": "casa",
+      "imagem": "/img/pexels-photo-4258275.jpeg"
+    },
+    {
+      "id": 9,
+      "nome": "Apartamento Moderno no Centro da Cidade",
+      "descricao": "Este apartamento contemporâneo de 1 quarto está localizado no coração da cidade, proporcionando acesso conveniente a todas as comodidades urbanas.",
+      "preco": 500000,
+      "endereco": "Rua Máximus Décimus Meridius, nº 1, Bairro Coliseu, Manaus/AM",
+      "tipo": "apartamento",
+      "imagem": "/img/lafayette-park-washington-dc-c-architecture-161768.jpeg"
+    },
+    {
+      "id": 10,
+      "nome": "Apartamento Luxuoso no Bairro Nobre",
+      "descricao": "Este luxuoso apartamento de 2 quartos está situado em um bairro nobre da cidade, oferecendo um estilo de vida sofisticado. Aprecie o conforto e a elegância neste espaço moderno.",
+      "preco": 700000,
+      "endereco": "Rua Darth Vader, nº 666, Bairro Estrela da Morte, Franca/SP",
+      "tipo": "apartamento",
+      "imagem": "/img/pexels-leah-kelley-2090651.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Apartamento Charmoso no Centro Histórico",
+      "descricao": "Este charmoso apartamento de 1 quarto está situado no centro histórico da cidade, oferecendo uma mistura única de encanto antigo e comodidades modernas. Explore a rica herança cultural da região a partir desta localização conveniente.",
+      "preco": 650000,
+      "endereco": "Rua Luke Skywalker, nº 70, Bairro Tatooine, Ribeirão Preto/SP",
+      "tipo": "apartamento",
+      "imagem": "/img/pexels-luis-quintero-2111768.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "Apartamento com Vista Panorâmica para o Oceano",
+      "descricao": "Desfrute de vistas deslumbrantes do oceano neste espaçoso apartamento de 3 quartos. Localizado à beira-mar, você se sentirá cercado pela beleza natural enquanto desfruta de comodidades urbanas de classe mundial.",
+      "preco": 850000,
+      "endereco": "Rua Turco Fraco, nº 4, Bairro Ana Paula, Guarujá/SP",
+      "tipo": "apartamento",
+      "imagem": "/img/pexels-jovydas-dobilas-2462015.jpg"
+    },
+    {
+      "id": 13,
+      "nome": "Sala Comercial no Centro Financeiro da Cidade",
+      "descricao": "Esta sala comercial elegante e bem iluminada está localizada no coração do distrito financeiro da cidade. É o local perfeito para empresas que buscam uma localização central e prestígio.",
+      "preco": 250000,
+      "endereco": "Rua Lebron James, nº 23, Bairro Los Angeles, Rio de Janeiro/RJ",
+      "tipo": "comercio",
+      "imagem": "/img/pexels-bali-demiri-3801167.jpg"
+    },
+    {
+      "id": 14,
+      "nome": "Sala Comercial na Zona de Alta Tecnologia",
+      "descricao": "Localizada em uma zona de alta tecnologia, esta sala comercial é perfeita para empresas que buscam um ambiente inovador. Com infraestrutura de última geração, é um local propício para o crescimento.",
+      "preco": 350000,
+      "endereco": "Rua Gandalf o Cinzento, nº 1, Bairro Gondor, São Paulo/SP",
+      "tipo": "comercio",
+      "imagem": "/img/pexels-marc-mueller-380769.jpg"
+    },
+    {
+      "id": 15,
+      "nome": "Sala Comercial em um Arranha-Céu Corporativo",
+      "descricao": "Esta sala comercial está localizada em um arranha-céu corporativo no centro da cidade, proporcionando uma presença empresarial impressionante. Desfrute de instalações de primeira classe e uma localização estratégica.",
+      "preco": 300000,
+      "endereco": "Rua Vegeta, nº 2, Bairro Kakarotto, Franca/SP",
+      "tipo": "comercio",
+      "imagem": "img/pexels-pixabay-416320.jpg"
+    }
+  ]
+  
